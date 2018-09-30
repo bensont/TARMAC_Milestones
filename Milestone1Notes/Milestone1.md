@@ -31,7 +31,7 @@ The risk that would prevent the project from completing on time will include the
 * Codebase: https://github.com/bensont/TARMAC_TheStockpile.git
 ***
 ### *Development Methods:*
-The group methodology which this group will be using is Agile. Agile is a methodology of satisfying the customer with early and continuous updates of the project. This includes smaller projects throughout the entire projects life time. It is the idea of building it, assessing it, modifying it and then repeat. The Agile method is a way to be flexible and dynamic and still keep in budget and in time given along with making sure that the project is completed and works properly.
+The group methodology which this group will be using is Agile. Agile is a methodology of satisfying the customer with early and continuous updates of the project. Agile is known for having competitive advantage with interaction between buyer and company allowing for heavy changes in the projects late into development and having the design be set in stone as late as possible in the game. This includes smaller projects throughout the entire projects lifetime. It is the idea of building it, assessing it, modifying it and then repeat. The Agile method is a way to be flexible and dynamic and still keep in budget and in time given along with making sure that the project is completed and works properly. This method will allow for more flexibility and to be able to be apdatpte late in the game if the project needs modification and to catch project issues earlier on. 
 ***
 ### *Collaboration Tool:*
 We have chosen Discord to communicate because it allows remote collaboration in real time through both text and voice chat, and video chat.
