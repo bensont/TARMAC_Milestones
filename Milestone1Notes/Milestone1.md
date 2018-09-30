@@ -41,6 +41,5 @@ For the Stockpile website we will need to develop a front end web store that wil
 
 The next Integration layer of the stack will need to link the front end of the web store to the database. Node.js is a language that will fit this role. Js can be embedded in to HTML to allow us to have more advanced logic in each page. Js will also process information entered by the user such as email/password. It will then process the data and send it to the database as well as take information from the database and process it so can be properly displayed.
 
-The last layer of the integration stack is the database. This will need to store all of the products, user data, and orders. MySQL is a database language that stores all the data in organized tables. This data can be called on via keys. A well designed table is necessary to efficiently use the keys to find data and pass it back up the integration stack.
-!()[doggs.jpg]
+The last layer of the integration stack is the database. This will need to store all of the products, user data, and orders. MySQL is a database language that stores all the data in organized tables. This data can be called on via keys. A well designed table is necessary to efficiently use the keys to find data and pass it back up the integration stack. 
 ***
