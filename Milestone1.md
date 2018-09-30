@@ -1,9 +1,9 @@
 ***
-### Milestone 1
+## *Milestone 1*
 ***
-#### Team Name: TARMAC
+### *Team Name:* TARMAC
 ***
-#### Description:
+### *Description:*
 __The Stockpile__ is a webstore that provides fine hand-crafted Canadian furniture and goods to customers around the world.  We pride ourselves on our family-owned, grassroots business model that gives our customers excellent customer service, and an experience that they will want to come back to every time that they need furniture.
 
 Our web store is the first step in giving customers the next piece that they need to complete that living room or kitchen set.  The easy-to-navigate interface guides customers through the shopping process.  Once in the cart, we do our best to give the lowest shipping costs possible and there’s no assembly required!  Say goodbye to wrestling with IKEA furniture for a whole weekend.
