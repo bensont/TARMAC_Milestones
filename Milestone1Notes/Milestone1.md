@@ -43,5 +43,3 @@ The next Integration layer of the stack will need to link the front end of the w
 
 The last layer of the integration stack is the database. This will need to store all of the products, user data, and orders. MySQL is a database language that stores all the data in organized tables. This data can be called on via keys. A well designed table is necessary to efficiently use the keys to find data and pass it back up the integration stack.
 ***
-![Pupper](https://i.imgur.com/5fqGGJO.jpg)
-![pupper from file](doggs.jpg)
