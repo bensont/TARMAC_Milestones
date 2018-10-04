@@ -1,6 +1,7 @@
 ***
 ## *Milestone 1*
 ### *Team Name:* TARMAC
+### *Team Members:* Colin Craighead, Tyler Benson, Maureen Aubrey, Alex Kennedy, Ahman Woods, Rebecca Donohoe 
 ***
 ### *Description:*
 __The Stockpile__ is a webstore that provides fine hand-crafted Canadian furniture and goods to customers around the world.  We pride ourselves on our family-owned, grassroots business model that gives our customers excellent customer service, and an experience that they will want to come back to every time that they need furniture.
